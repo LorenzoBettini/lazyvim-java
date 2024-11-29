@@ -1,7 +1,6 @@
-# 💤 LazyVim
+# Example of Neovim configuration for Java development with LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+This configuration is shown in a few blog posts at <https://www.lorenzobettini.it>.
 
 To test it without overriding your Neovim configuration:
 
@@ -14,4 +13,3 @@ And then, to use it:
 ```shell
 NVIM_APPNAME=lazyvim-java nvim
 ```
-
