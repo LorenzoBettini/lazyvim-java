@@ -1,7 +1,8 @@
 {
   "extras": [
     "lazyvim.plugins.extras.dap.core",
-    "lazyvim.plugins.extras.lang.java"
+    "lazyvim.plugins.extras.lang.java",
+    "lazyvim.plugins.extras.lang.json"
   ],
   "install_version": 7,
   "news": {
